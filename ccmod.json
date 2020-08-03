@@ -1,0 +1,8 @@
+{
+  "id": "modifier-api",
+  "version": "0.2.0",
+  "description": {
+    "en_US": "Enables easier creation and usage of custom modifiers"
+  },
+  "prestart": "mod.js"
+}

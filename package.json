@@ -1,9 +1,0 @@
-{
-  "name": "modifier-api",
-  "description": "Enables easier creation and usage of custom modifiers",
-  "prestart": "mod.js",
-  "version": "0.1.0",
-  "ccmodDependencies": {
-  },
-  "module": true
-}
